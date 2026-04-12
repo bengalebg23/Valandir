@@ -11,10 +11,14 @@
             "id": "8648dcf1dce8ebab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "testing testing 123.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "testing testing 123"
             }
           }
         ]
@@ -125,6 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "testing testing 123 1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -148,6 +153,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8648dcf1dce8ebab",
-  "lastOpenFiles": []
+  "active": "64f42ab4e4aaecf3",
+  "lastOpenFiles": [
+    "testing testing 123.md",
+    "testing testing 123 1.md",
+    "Valandir DND Campaign/Plotline/Act 12/Act 12 - The murder.md"
+  ]
 }
